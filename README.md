@@ -13,6 +13,7 @@
 
 ## 🧑‍💻 About Me
 
+```csharp
 var sanjeev = new Developer
 {
     Name        = "Sanjeev Parajuli",
@@ -24,6 +25,8 @@ var sanjeev = new Developer
     OpenTo      = "Junior Dev Roles & Collaborations",
     Portfolio   = "parajulisanjeev.com.np"
 };
+```
+
 ---
 
 ## 🛠️ Tech Stack
