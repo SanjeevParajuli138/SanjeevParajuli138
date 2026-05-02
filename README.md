@@ -13,18 +13,38 @@
 
 ## 🧑‍💻 About Me
 
-```csharp
-var sanjeev = new Developer
+```bash
+visitor@github:~$ ssh sanjeev@kathmandu.dev
+> Connected to Sanjeev Parajuli's profile ✓
+
+sanjeev@kathmandu:~$ whoami
+> .NET & Java Backend Developer
+> Building clean, scalable web apps from Kathmandu, Nepal 🇳🇵
+
+sanjeev@kathmandu:~$ cat skills.config
+> Backend   →  C# · ASP.NET Core · Java · Spring Boot · PHP
+> Frontend  →  HTML · CSS · JavaScript · HTMX
+> Database  →  MS SQL · MySQL · Entity Framework Core
+> Tools     →  Git · Azure DevOps · Visual Studio · IntelliJ
+
+sanjeev@kathmandu:~$ git log --oneline
+> a3f9c12  Built Ticket Management System (Clean Architecture)
+> 7e2b841  Shipped MandуCart — full e-commerce platform
+> 4d1c390  Trained SVM model for signature verification
+> 9f0a217  Semantic search engine with vector embeddings
+
+sanjeev@kathmandu:~$ cat status.json
 {
-    Name        = "Sanjeev Parajuli",
-    Location    = "Kathmandu, Nepal 🇳🇵",
-    Role        = ".NET & Java Backend Developer",
-    Education   = "B.IT @ Padmashree College (Nilai University)",
-    Focus       = new[] { "Clean Architecture", "REST APIs", "Fullstack Web Apps" },
-    CurrentlyLearning = "React.js + Advanced ASP.NET Core",
-    OpenTo      = "Junior Dev Roles & Collaborations",
-    Portfolio   = "parajulisanjeev.com.np"
-};
+  "currently_learning" : "React.js + Advanced ASP.NET Core",
+  "open_to"            : "Junior Dev Roles & Collaborations",
+  "portfolio"          : "parajulisanjeev.com.np",
+  "fun_fact"           : "I once taught Git to 50+ students before mastering it myself 😄"
+}
+
+sanjeev@kathmandu:~$ echo $PHILOSOPHY
+> "Write code as if the next developer is a serial killer who knows your address."
+
+sanjeev@kathmandu:~$ _
 ```
 
 ---
