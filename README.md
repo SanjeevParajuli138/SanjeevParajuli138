@@ -35,7 +35,14 @@ var sanjeev = new Developer
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Web API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6C757D?style=for-the-badge)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-6C757D?style=for-the-badge)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-000000?style=for-the-badge)
+![Serilog](https://img.shields.io/badge/Serilog-FF6F00?style=for-the-badge)
 
 ---
 
@@ -75,10 +82,26 @@ var sanjeev = new Developer
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1B8FE8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parajulisanjeev.com.np)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeevprjl52310@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeev-parajuli-a4a3852b3/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjeevparajuli138)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://parajulisanjeev.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-1B8FE8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sanjeevprjl52310@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sanjeev-parajuli-a4a3852b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sanjeevparajuli138">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 
 </div>
 
