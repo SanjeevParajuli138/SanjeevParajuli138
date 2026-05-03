@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1B8FE8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sanjeev+Parajuli+%F0%9F%91%8B;.NET+%26+Java+Backend+Developer;Building+clean%2C+scalable+web+apps;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1B8FE8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sanjeev+Parajuli+%F0%9F%91%8B;.NET+%26+Backend+Developer;Building+clean%2C+scalable+web+apps;Always+learning%2C+always+building" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@ var sanjeev = new Developer
 {
     Name        = "Sanjeev Parajuli",
     Location    = "Kathmandu, Nepal 🇳🇵",
-    Role        = ".NET & Java Backend Developer",
+    Role        = ".NET Backend Developer",
     Education   = "B.IT @ Padmashree College (Nilai University)",
     Focus       = new[] { "Clean Architecture", "REST APIs", "Fullstack Web Apps" },
     CurrentlyLearning = "React.js + Advanced ASP.NET Core",
